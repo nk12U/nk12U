@@ -10,5 +10,5 @@
 - Skills
   - C
   - Python
-  - Verilog
-  - Virtuoso
+  - Verilog HDL
+  - Cadense Virtuoso
