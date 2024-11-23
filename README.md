@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Interets
+- Interests
   - Computer Architecture
   - FPGA
   - Integrated Circuit
