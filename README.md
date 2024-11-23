@@ -12,8 +12,3 @@
   - Python
   - Verilog
   - Virtuoso
-
-- Tools
-  - Vivado
-  - Quartus Prime
-  - VSCode
