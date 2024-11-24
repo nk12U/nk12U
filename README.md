@@ -13,4 +13,4 @@
   - Verilog HDL
   - Cadense Virtuoso
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk12U&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk12U&layout=compact&%20notebook)
