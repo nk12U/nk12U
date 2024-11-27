@@ -5,7 +5,7 @@
   - FPGA
   - Integrated Circuit
   - Neural Network 
-  - Hardware Acceralator
+  - Hardware Accelerator
 
 - Skills
   - C
