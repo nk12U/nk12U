@@ -13,5 +13,6 @@
   - Verilog HDL
   - VHDL
   - Cadense Virtuoso
+  - SPICE
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk12U&layout=compact&%20notebook)
